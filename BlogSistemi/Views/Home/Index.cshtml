@@ -1,0 +1,12 @@
+﻿@model List<BlogSistemi.Models.Gonderi>
+<h2>Blog Yazıları</h2>
+@foreach (var item in Model)
+{
+    <div>
+        <h3>@item.Baslik</h3>
+        <img src="@item.ResimYolu" width="300" />
+        <p>@item.Icerik.Substring(0, Math.Min(item.Icerik.Length, 150))...</p>
+        <p><b>Kategori:</b> @item.Kategori.Ad</p>
+        <p><b>Tarih:</b> @item.Tarih.ToShortDateString()</p>
+    </div>
+}
