@@ -43,6 +43,9 @@ Sistem, kategori yönetimi, kullanıcı girişi, görsel yükleme ve veri listel
 
 🔗 Proje Bağlantıları
 • GitHub: https://github.com/berkantturkmen
+
 • LinkedIn: https://www.linkedin.com/in/berkantturkmen
+
 • Instagram: https://www.instagram.com/berkantturkmen37
+
 • X (Twitter): https://x.com/berkantturkmenn
