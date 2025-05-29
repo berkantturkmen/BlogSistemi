@@ -42,10 +42,12 @@ Sistem, kategori yönetimi, kullanıcı girişi, görsel yükleme ve veri listel
 - Footer kısmında geliştiriciye ait sosyal medya bağlantıları yer alır.
 
 🔗 Proje Bağlantıları
-• GitHub: https://github.com/berkantturkmen
+GitHub: https://github.com/berkantturkmen
 
-• LinkedIn: https://www.linkedin.com/in/berkantturkmen
+LinkedIn: https://www.linkedin.com/in/berkantturkmen
 
-• Instagram: https://www.instagram.com/berkantturkmen37
+Instagram: https://www.instagram.com/berkantturkmen37
 
-• X (Twitter): https://x.com/berkantturkmenn
+X (Twitter): https://x.com/berkantturkmenn
+
+
